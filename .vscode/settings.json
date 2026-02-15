@@ -1,0 +1,4 @@
+{
+  "cSpell.ignoreWords": ["cuid", "pkey", "stackframe"],
+  "prisma.pinToPrisma6": false
+}
